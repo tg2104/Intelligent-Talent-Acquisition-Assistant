@@ -30,7 +30,7 @@ A fully autonomous AI-driven recruitment assistant designed to simplify and opti
 ## 🔐 Security
 
 - Environment variables are stored in `.env` and excluded from Git tracking.
-- Virtual environments like `Sreenjoy` are also excluded for clean collaboration.
+- Virtual environments like `Tishya` are also excluded for clean collaboration.
 
 ## 📧 Contact
 
